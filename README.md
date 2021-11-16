@@ -1,2 +1,3 @@
 # MultithreadedSummationJava
-Split an array and calculate both of them.
+Input : an array
+Output : split an array in two part and calculate both of them (using multi threading)
